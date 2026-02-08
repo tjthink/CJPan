@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "antd": "^3.9.2",
-    "react-dplayer": "^0.3.3",
+    "react-dplayer": "^0.4.2",
     "reqwest": "^2.0.5"
   }
 }
